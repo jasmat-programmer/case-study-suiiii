@@ -1,0 +1,88 @@
+.title{
+    font-size: 15px;
+    font-weight: normal;
+    letter-spacing: 2px;
+    color: red;
+    font-family:sans-serif ;
+}
+.gl{
+    width: 330px;
+    height: 190px;
+}
+
+#vs{
+color: red;
+font-weight: bolder;
+font-size: 45px;
+}
+
+#mbn{
+    font-size: 35px;
+    font-family:sans-serif;
+}
+#mbn:hover{
+background-color:royalblue;
+cursor: default;
+}
+.test_image_and_result{
+    background-color: grey;
+    border-radius: 20px;
+    border: solid 2px black;
+    height:500px ;
+    text-align: center;
+}
+#bottle{
+    margin-top: 10px;
+    border: 2px white solid;
+    border-radius: 25px;
+    height: 390px;
+    width: 250px;
+}
+b{
+    color: hotpink;
+}
+li{
+    color: lightgrey;
+}
+h4{
+    color:white;
+}
+h5{
+    background-color: antiquewhite;
+    border-radius: 35px;
+    height: 35px;
+    font-size: 20px;
+    text-align: center;
+}
+h6{
+    font-size: 15px;
+}
+#image2,#image3{
+    margin-top: 70px;
+    height: 370px ;
+}
+#sneakers{
+    width: 400px;
+    height: 270px;
+    margin-top: 10px;
+    border: 2px white solid;
+    border-radius: 25px;
+}
+#headphones{
+    width: 400px;
+    height: 270px;
+    margin-top: 10px;
+    border: 2px white solid;
+    border-radius: 25px;
+}
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    bottom: 0;
+    color:black;
+    font-style:normal;
+    font-size: 15px;
+    font-weight: bolder;
+}
